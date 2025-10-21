@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" alt="MasterHead" width="100%"/>
+  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" alt="MasterHead" height="400"/>
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Anant Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" height="350" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19f1535b-749b-4a8e-8640-d429f027cd3c/de04f5f-61a4ed30-0269-4b7d-bf90-85c046193478.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xOWYxNTM1Yi03NDliLTRhOGUtODY0MC1kNDI5ZjAyN2NkM2MvZGUwNGY1Zi02MWE0ZWQzMC0wMjY5LTRiN2QtYmY5MC04NWMwNDYxOTM0NzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BR7jexI-bdhFytcn4nW0phKBXpgW6BcdcsWenHW2Z2I">
+<img align="right" alt="Coding" height="310" width="370" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19f1535b-749b-4a8e-8640-d429f027cd3c/de04f5f-61a4ed30-0269-4b7d-bf90-85c046193478.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xOWYxNTM1Yi03NDliLTRhOGUtODY0MC1kNDI5ZjAyN2NkM2MvZGUwNGY1Zi02MWE0ZWQzMC0wMjY5LTRiN2QtYmY5MC04NWMwNDYxOTM0NzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BR7jexI-bdhFytcn4nW0phKBXpgW6BcdcsWenHW2Z2I">
 
 - 🔭 I’m currently working on **Align AI**
 
