@@ -23,8 +23,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Anant-404&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anant-404&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anant-404&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Anant-404&theme=tokyonight&hide_border=false" height="160" />
 
   <br/>
 
