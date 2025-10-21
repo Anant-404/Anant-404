@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" alt="MasterHead" height="300"/>
+  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" alt="MasterHead" width="100%"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Anant Mishra</h1>
 <h3 align="center">A passionate Software developer from India</h3>
