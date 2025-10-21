@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" alt="MasterHead" height="400"/>
+  <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" alt="MasterHead" height="380"/>
 </p>
 
 
@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Next js, Supabase, AI agents**
-
-- 📫 How to reach me **https://www.linkedin.com/in/anant-mishra77/**
+- 💬 Ask me about **Next.js, Supabase, OpenAI, RAG systems, and building AI-powered web apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anant mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant mishra" height="30" width="40" /></a>
+<a href="ttps://www.linkedin.com/in/anant-mishra77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant mishra" height="30" width="40" /></a>
 </p>
 
   <br/>
